@@ -90,9 +90,9 @@ This application is designed to showcase event-driven architecture using AWS ser
 
 ### Deliverables:
 
-    •	Working AWS Lambda functions for each microservice.
-    •	Configured EventBridge event bus and event patterns.
-    •	DynamoDB tables with appropriate schema and data.
-    •	Infrastructure provisioned via Terraform.
-    •	CI/CD pipeline for testing and deployment.
-    •	Test cases and documentation of the event flow and error handling process.
+•	Working AWS Lambda functions for each microservice.
+•	Configured EventBridge event bus and event patterns.
+•	DynamoDB tables with appropriate schema and data.
+•	Infrastructure provisioned via Terraform.
+•	CI/CD pipeline for testing and deployment.
+•	Test cases and documentation of the event flow and error handling process.
